@@ -1,2 +1,3 @@
 Name: Danh Tri Hoa
 Interests: Coding,Desigh
+Skills: Git, HTML, CSS
