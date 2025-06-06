@@ -1,2 +1,3 @@
 # 220985_DanhTriHoa
-hoc gifhud
+his repository is used for learning GitHub on web.
+Commit changes (commit message): Update README with more info
